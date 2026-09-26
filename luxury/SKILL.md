@@ -1,30 +1,30 @@
 ---
 name: luxury
-description: >-
-  Design and build UI for a Home Décor & Accessories ecommerce store using a
-  Rockett St George–led dark luxury layout with a Graham & Green–inspired news
-  banner and nav structure (black header, socials top-right). Use when building
-  or redesigning luxury home décor sites, headers, PLPs, PDPs, or when the user
-  mentions luxury, Rockett St George, Graham & Green, or this skill.
----
+description: Design and build UI for a Home Décor & Accessories ecommerce store using a Rockett St George–led dark luxury layout with a Graham & 
+Green–inspired news banner and nav structure (black header, socials 
+top-right). Use when building or redesigning luxury home décor sites, 
+headers, PLPs, PDPs, or when the user mentions luxury, Rockett St george, Graham & Green, or this skill.
 
+---
 # Luxury Home Décor Design Skill
 
 Build storefront UI for a Home Décor & Accessories brand. Placeholder brand wordmark: `BRAND` unless the user supplies a real name.
 
 ### Reference sites
 
-- **Primary layout & design:** https://www.rockettstgeorge.co.uk/
-- **Nav + news banner structure only:** https://www.grahamandgreen.co.uk/home-accessories/view-all-home-accessories
+- **Primary layout & design:** [https://www.rockettstgeorge.co.uk/](https://www.rockettstgeorge.co.uk/)
+- **Nav + news banner structure only:** [https://www.grahamandgreen.co.uk/home-accessories/view-all-home-accessories](https://www.grahamandgreen.co.uk/home-accessories/view-all-home-accessories)
 
 ## Source hierarchy (hard rules)
 
-| Area | Follow |
-|------|--------|
-| Page layout, dark palette, hero, grids, PDP, editorial mood | **Rockett St George** (rockettstgeorge.co.uk) |
-| News/announcement banner + main nav bar **structure** | **Graham & Green only** (grahamandgreen.co.uk) |
-| Social icon placement | **Rockett** (top-right of header) inside the G&G nav layout |
-| Footer | **Original** — never copy Rockett or G&G footers |
+
+| Area                                                        | Follow                                                      |
+| ----------------------------------------------------------- | ----------------------------------------------------------- |
+| Page layout, dark palette, hero, grids, PDP, editorial mood | **Rockett St George** (rockettstgeorge.co.uk)               |
+| News/announcement banner + main nav bar **structure**       | **Graham & Green only** (grahamandgreen.co.uk)              |
+| Social icon placement                                       | **Rockett** (top-right of header) inside the G&G nav layout |
+| Footer                                                      | **Original** — never copy Rockett or G&G footers            |
+
 
 Do not copy body chrome, product cards, or page layouts from Graham & Green. Do not replicate either site’s footer.
 
@@ -141,11 +141,12 @@ Use this structure (not Rockett/G&G):
 
 When building or redesigning UI with this skill:
 
-- [ ] News banner uses G&G promo-bar structure with site-fitting (non–forest-green) colors
-- [ ] Header is black; logo left, search center, socials top-right, utilities below socials
-- [ ] Nav is centered, uppercase, letter-spaced
-- [ ] Home / PLP / PDP follow Rockett-led dark editorial layouts
-- [ ] Footer is original (wordmark + newsletter + columns + legal) — not from references
-- [ ] Tokens applied; accent used sparingly; 2–3 restrained motions
-- [ ] Mobile: menu collapse; search + bag reachable; socials relocated sanely
-- [ ] No verbatim copy or assets from grahamandgreen.co.uk or rockettstgeorge.co.uk
+- News banner uses G&G promo-bar structure with site-fitting (non–forest-green) colors
+- Header is black; logo left, search center, socials top-right, utilities below socials
+- Nav is centered, uppercase, letter-spaced
+- Home / PLP / PDP follow Rockett-led dark editorial layouts
+- Footer is original (wordmark + newsletter + columns + legal) — not from references
+- Tokens applied; accent used sparingly; 2–3 restrained motions
+- Mobile: menu collapse; search + bag reachable; socials relocated sanely
+- No verbatim copy or assets from grahamandgreen.co.uk or rockettstgeorge.co.uk
+

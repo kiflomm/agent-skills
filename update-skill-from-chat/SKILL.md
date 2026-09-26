@@ -1,10 +1,10 @@
 ---
 name: update-skill-from-chat
-description: >-
-  Update a local skill's SKILL.md from changes implemented or decided in the
-  current agent chat. Use when the user asks to sync, update, revise, or fold
-  chat changes into a skill, or names this skill / update-skill-from-chat.
+description:Update a local skill's SKILL.md from changes implemented or decided 
+in the current agent chat. Use when the user asks to sync, update, revise, or 
+fold chat changes into a skill, or names this skill / update-skill-from-chat.
 disable-model-invocation: true
+
 ---
 
 # Update Skill From Chat
