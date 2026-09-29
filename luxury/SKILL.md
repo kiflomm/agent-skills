@@ -1,9 +1,11 @@
 ---
 name: luxury
-description: Design and build UI for a Home Décor & Accessories ecommerce store using a Rockett St George–led dark luxury layout with a Graham & 
-Green–inspired news banner and nav structure (black header, socials 
-top-right). Use when building or redesigning luxury home décor sites, 
-headers, PLPs, PDPs, or when the user mentions luxury, Rockett St george, Graham & Green, or this skill.
+description: >-
+  Design and build UI for a Home Décor & Accessories ecommerce store using a
+  Rockett St George–led dark luxury layout with a Graham & Green–inspired news
+  banner and nav structure (black header, socials top-right). Use when building
+  or redesigning luxury home décor sites, headers, PLPs, PDPs, or when the user
+  mentions luxury, Rockett St george, Graham & Green, or this skill.
 
 ---
 # Luxury Home Décor Design Skill
